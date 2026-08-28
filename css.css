@@ -826,6 +826,7 @@ color:transparent;background: var(--deg-3);
     top: 8px;
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
+    border-radius: 13px;
 }
 #notiffi_button {
     cursor: pointer;
@@ -839,6 +840,7 @@ color:transparent;background: var(--deg-3);
     width: 64px;
     mix-blend-mode: difference;
     border: 1px solid #fff; 
+    border-radius: 13px;
 }
 .ntf_button-text {
     color: #fff;
