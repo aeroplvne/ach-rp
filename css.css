@@ -930,8 +930,8 @@ color:transparent;background: var(--deg-3);
 .cate_sslink{float:left;width:672px;padding:6px 0 9px 0;margin:0px 0 0 15px;border-bottom:none;}
 .cate_sslink2{float: left;width: 672px;padding: 6px 0 9px 0;margin: 0px 0 0 15px;border-bottom: none;}
 .forum_stats{float:left;font-family:var(--font-5);font-size:9px;width:81px;text-align:left;margin: -60px 0 0 0;color:var(--para-c1);text-transform:uppercase}
-.forum_avatar{display:inline-block;float:left;width:50px;height:70px;position:absolute;background:var(--border-c1);margin: -7px 0px 0px 115px;padding:0;border: 5px solid var(--fond-c1);}
-.lastpostavatar img{height:70px;width:50px;object-fit:cover;border-radius:0}
+.forum_avatar{display:inline-block;float:left;width:50px;height:70px;position:absolute;background:var(--border-c1);margin: -7px 0px 0px 115px;padding:0;}
+.lastpostavatar img{height:70px;width:50px;object-fit:cover;border-radius:8px}
 .cate_lastpp{float:left;color:var(--para-c2);width:138px;height:44px;position:absolute;padding:0;font-size:10px;margin:7px 0 0 929px;font-family:var(--font-1)!important;text-transform:lowercase;line-height:12px}
 .forumtitle numbtt{display:none}
 .forumtitle maintt1,.forumtitle maintt2{padding:0px 30px 0 45px}
